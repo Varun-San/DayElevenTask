@@ -2,61 +2,67 @@ import React from "react";
 
 function Rural() {
   return (
-    <>
-      <h3>About The Rural Life</h3>
-      <p>
-        Rural life is characterized by its slow-paced living, natural beauty,
-        and tight-knit communities. From expansive fields to tranquil farms,
-        rural areas offer a peaceful escape from the hustle of urban
-        environments. While they provide a sense of serenity and connection to
-        nature, the challenges of isolation and limited access to modern
-        amenities remind us of the need to adapt in these surroundings.
-      </p>
-      <hr />
-      <p>
-        Rural life thrives on simplicity, where people live closely with nature
-        and support each other through strong community ties. It offers a sense
-        of belonging and connection to the land, making it a haven for personal
-        reflection and growth. Despite the slower pace, it’s essential to find
-        balance and embrace the natural rhythms of life that rural living
-        provides.
-      </p>
-      <hr />
-      <p>
-        In the countryside, every day tells a story of hard work and resilience.
-        The rhythm of rural life is shaped by sunrise chores, the chirping of
-        birds, and the peaceful quiet of the night. Despite its challenges,
-        rural living fosters close relationships and an appreciation for the
-        environment, inspiring people to live sustainably and with purpose.
-      </p>
-      <hr />
-      <p>
-        Rural life is a constant blend of tradition and change, where old barns
-        sit alongside new farming technologies. It's a place where community
-        bonds are strong, and people from diverse backgrounds work together to
-        maintain a harmonious and productive environment. While rural areas
-        offer a peaceful lifestyle, they also remind us of the importance of
-        preserving the natural world for future generations.
-      </p>
-      <hr />
-      <p>
-        Living in the countryside means embracing the simplicity and peace that
-        come with it. The sounds of nature, the smell of fresh soil, and the
-        sense of connection to the land all contribute to an experience that
-        brings people closer to their roots. Rural life encourages individuals
-        to adapt to the cycles of the seasons, all while offering opportunities
-        to grow and contribute to a supportive community.
-      </p>
-      <hr />
-      <p>
-        Rural life is a canvas painted with the shades of nature, tradition, and
-        a slower pace of living. In the midst of the fields and forests, local
-        markets, community events, and farmsteads come alive with the stories of
-        everyday people. Though the pace may be slower, rural life offers a deep
-        sense of connection to both the land and one another, all while
-        navigating the beauty and challenges of country living.
-      </p>
-    </>
+    <div>
+      <div className="main-div">
+        <div className="text-div">
+          <h3>About The Urban Life </h3>
+          <p>
+            Urban life is a blend of fast-paced living, cultural diversity, and
+            endless opportunities. From towering skyscrapers to bustling
+            streets, cities are hubs of innovation, creativity, and social
+            connections. While they offer convenience and excitement, the
+            challenges of noise, pollution, and limited green spaces remind us
+            of the need for balance in our modern lifestyles.
+          </p>
+          <hr />
+          <p>
+            Urban life thrives on its vibrant energy, where people from
+            different walks of life converge to create dynamic communities. It
+            offers access to world-class education, healthcare, and
+            entertainment, making it a hub for personal and professional growth.
+            However, amidst the hustle, it's essential to find moments of
+            tranquility to recharge and appreciate the beauty of city living.
+          </p>
+          <hr />
+          <p>
+            In cities, every day tells a story of ambition and resilience. The
+            rhythm of urban life is shaped by early morning commutes, the hum of
+            markets, and the glow of city lights at night. Despite its
+            challenges, urban living fosters innovation and collaboration,
+            inspiring people to dream big and make a lasting impact on the
+            world.
+          </p>
+          <hr />
+          <p>
+            Urban life is a constant contrast of old and new, where historic
+            buildings stand alongside modern architecture. It's a place where
+            diversity is celebrated, and cultures blend seamlessly to create a
+            unique and vibrant atmosphere. While the city offers endless
+            opportunities, it also reminds us of the importance of
+            sustainability, as we strive to make our cities more livable for
+            future generations.
+          </p>
+          <hr />
+          <p>
+            s Living in the city means embracing both chaos and convenience. The
+            buzz of traffic, the mix of languages, and the diversity of food and
+            fashion all contribute to an experience unlike any other. Urban life
+            challenges individuals to adapt, innovate, and make the most of
+            limited space, all while offering endless opportunities to grow,
+            connect, and explore.
+          </p>
+          <hr />
+          <p>
+            Urban life is a canvas painted with the colors of different
+            cultures, traditions, and lifestyles. In the midst of the concrete
+            jungle, parks, cafes, and streets come alive with stories of
+            everyday people. The city may be fast-paced, but it also offers a
+            sense of community, where connections are made and dreams are
+            nurtured, all while navigating the challenges of space and time.
+          </p>
+        </div>
+      </div>
+    </div>
   );
 }
 
