@@ -1,8 +1,10 @@
 import React from "react";
+import Common from "./Common";
 
 function Rural() {
   return (
     <div>
+      <Common />
       <div className="main-div">
         <div className="text-div">
           <h3>About The Urban Life </h3>
