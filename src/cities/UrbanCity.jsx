@@ -62,7 +62,6 @@ export const UrbanCity = () => {
           </p>
         </div>
       </div>
-      ;
     </div>
   );
 };
